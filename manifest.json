@@ -1,0 +1,6 @@
+{
+  "name": "memory_summarizer_agent",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
